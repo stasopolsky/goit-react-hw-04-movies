@@ -1,0 +1,1 @@
+{"version":3,"sources":["Cast.module.css"],"names":[],"mappings":"AAAA,wBACE,SACF,CAEA,sBACE,YAAa,CACb,cAAe,CACf,6BAA8B,CAC9B,eACF","file":"cast.d9dc4902.chunk.css","sourcesContent":[".actorPhoto {\n  width: 50%;\n}\n\n.castList {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: space-between;\n  list-style: none;\n}\n"]}
