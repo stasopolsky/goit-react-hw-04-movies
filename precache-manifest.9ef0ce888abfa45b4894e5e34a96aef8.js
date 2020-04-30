@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d9d1cd4143bd2dab5cf3e44f3e6cca1",
+    "revision": "0e6a2d084e41e2d58212508789aea72c",
     "url": "/goit-react-hw-04-movies/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-movies/static/css/cast.d9dc4902.chunk.css"
   },
   {
-    "revision": "7eee1062316a0d519cd9",
+    "revision": "33ff4fb288ed349c8d4d",
     "url": "/goit-react-hw-04-movies/static/css/main.e60b41bc.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-movies/static/js/cast.6abee178.chunk.js"
   },
   {
-    "revision": "7eee1062316a0d519cd9",
-    "url": "/goit-react-hw-04-movies/static/js/main.19e325f8.chunk.js"
+    "revision": "33ff4fb288ed349c8d4d",
+    "url": "/goit-react-hw-04-movies/static/js/main.2c146c02.chunk.js"
   },
   {
     "revision": "a6233357c7fd7f28dd7c",
