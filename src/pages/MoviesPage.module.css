@@ -20,16 +20,3 @@
   font-size: 20px;
   line-height: 30px;
 }
-
-a:link {
-  color: rgb(rgb(0, 0, 0), green, blue);
-}
-
-a:visited {
-  color: rgb(65, 65, 65);
-}
-
-a:hover {
-  /* text-decoration: underline; */
-  /* font-size: 24px; */
-}

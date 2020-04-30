@@ -21,7 +21,7 @@ export default class Home extends Component {
 
     return (
       <div>
-        <h1>Trending Movies page</h1>
+        <h1>Trending movies today</h1>
 
         <ArticleList data={movies} />
       </div>
