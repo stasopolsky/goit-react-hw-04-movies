@@ -1,0 +1,35 @@
+.moviesWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.resultList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.resultListItem a {
+  font-family: "Roboto", "Arial", sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+a:link {
+  color: rgb(rgb(0, 0, 0), green, blue);
+}
+
+a:visited {
+  color: rgb(65, 65, 65);
+}
+
+a:hover {
+  /* text-decoration: underline; */
+  /* font-size: 24px; */
+}

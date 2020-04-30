@@ -1,0 +1,14 @@
+.searchFormWrapper {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.searchForm {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 200px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
