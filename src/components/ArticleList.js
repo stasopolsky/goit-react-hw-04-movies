@@ -1,5 +1,3 @@
-/* eslint-disable  */
-
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
 
@@ -9,11 +7,11 @@ const ArticleList = ({ items = [], match, location }) => (
       <li key={item.id}>
         <Link
           to={{
-            pathname: `${match.path}/${item.id}`,
+            pathname: `${match.path}movies/${item.id}`,
             state: { from: location },
           }}
         >
-          {item.title}
+          {item.original_title}
         </Link>
       </li>
     ))}

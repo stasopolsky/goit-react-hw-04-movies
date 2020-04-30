@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter, BrowserRouter } from "react-router-dom";
 // import "./styles.css";
 import App from "./components/App";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter basename="goit-react-hw-04-movie">
     <App />
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById("root")
 );

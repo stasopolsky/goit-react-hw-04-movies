@@ -7,12 +7,6 @@ export const getTrendingMovies = () => {
   return axios.get(`${BASE_URL}trending/movie/day?api_key=${API_KEY}`);
 };
 
-// export const fetchArticles = (category = null) => {
-//   const url = category ? `/articles?category=${category}` : "/articles";
-
-//   return axios.get(url).then((response) => response.data);
-// };
-
 export const fetchMovieWithId = (id) => {
   return axios.get(`${BASE_URL}movie/${id}?api_key=${API_KEY}`);
 };

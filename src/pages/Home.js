@@ -17,13 +17,13 @@ export default class Home extends Component {
 
   render() {
     const { movies } = this.state;
-    // console.log(movies);
+    console.log(movies);
 
     return (
       <div>
         <h1>Trending movies today</h1>
 
-        <ArticleList data={movies} />
+        <ArticleList items={movies} />
       </div>
     );
   }
